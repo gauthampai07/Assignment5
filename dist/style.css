@@ -1,0 +1,19 @@
+.container1{
+    background: radial-gradient(red,blue);
+    margin: 2px;
+    border: 15px;
+    
+      
+}
+h2{
+    background:rgb(248, 246, 246);
+    font-size: 100%;
+    color: black;
+}
+ #btn{
+     content-visibility: center;
+     background-color: black;
+     color: azure;
+     margin-left: 600px;
+     margin-top: 40px;
+ }
